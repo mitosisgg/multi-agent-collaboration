@@ -1,0 +1,15 @@
+openai
+openai-agents
+pandas
+numpy
+matplotlib
+seaborn
+scipy
+cvxpy
+arch
+mpmath
+tabulate
+requests
+pydantic
+logging
+python-dotenv
